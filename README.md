@@ -21,9 +21,7 @@
 
 1. **Cloner le dépôt :**
 
-       ```bash 
        git clone https://github.com/yprnt/NewsAPIApp.git
-       ```
    
 3. **Ouvrir le projet :**
 
